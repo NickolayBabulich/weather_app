@@ -1,0 +1,17 @@
+body {
+    max-width: 1700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#weather-data {
+    margin-top: 20px;
+}
+
+.btn.btn-link {
+    color: #aeb2b6;
+}
+
+.btn.btn-link:hover {
+    color: #ffffff;
+}
